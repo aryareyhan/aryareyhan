@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Me
+Hi there, I'm Arya Reyhan, a Computer Science student, who has a strong passion for technology. I have a background in software development and is currently interested in expanding my knowledge in data science and machine learning.
 
-<!--
-**aryareyhan/aryareyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Current Skills
+**Languages:** Python, SQL, JavaScript, Dart, Java, Swift, C.
+**Frameworks and Technologies:** React, Springboot, Flutter, NumPy, Pandas, Matplotlib
+**Tools and Platforms:** Git, Google Colab, Android Studio, Katalon Studio, Figma, Microsoft Office
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Contact Infos
+- [LinkedIn](https://www.linkedin.com/in/aryareyhan/)
+- [Portfolio](https://aryareyhan.vercel.app/)
+- aryareyhan@outlook.com
