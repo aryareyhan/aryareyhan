@@ -7,6 +7,6 @@ Hi there, I'm Arya Reyhan, a Computer Science student, who has a strong passion 
 **Tools and Platforms:** Git, Google Colab, Android Studio, Katalon Studio, Figma, Microsoft Office
 
 ## My contact infos
-- [LinkedIn](https://www.linkedin.com/in/aryareyhan/)
-- [Portfolio](https://aryareyhan.vercel.app/)
+- [LinkedIn Profile](https://www.linkedin.com/in/aryareyhan/)
+- [Portfolio Website](https://aryareyhan.vercel.app/)
 - aryareyhan@outlook.com
